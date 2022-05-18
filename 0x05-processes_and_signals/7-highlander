@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# question 7
+trap 'echo "I am invincible!!!"' sigterm
+while 'true'; do
+      echo "To infinity aand beyond"
+      sleep 2
+done
+      
