@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# question 3
+ps -faux | grep bash
